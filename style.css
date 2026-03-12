@@ -42,8 +42,10 @@ nav a:hover {
     border-radius: 8px;
 }
 
-h1, h2 { color: white; }
 
+h1, h2 { 
+    color: #fcefb4; 
+}
 footer {
     text-align: center;
     padding: 20px;
